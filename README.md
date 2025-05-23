@@ -26,6 +26,7 @@ I also have made skins that change the typeface used on AO3. Currently I'm only 
 That said, if anyone wants access to these skins, let me know and I can upload them with disclaimers.
 
 <!--
+Leaving this link for my own reference: https://github.com/luciancooper/readme-swatches?tab=readme-ov-file
 **izestforrest/izestforrest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
