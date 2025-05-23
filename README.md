@@ -16,6 +16,15 @@ My vision is to create various versions of the Reversi (dark mode) skin, but in 
 
 These skins aren't *just* the Reversi CSS code with the hex values edited; I have also made several small aesthetic and quality of life changes. I don't believe any of these changes will be super noticeable to the average viewer, but if you have any questions or recommendations, please let me know! If you want to see what my changes look like on a monochromatic palette, I will soon have a skin uploaded here that is the **original Reversi color palette** with all my customizations on it.
 
+### AO3 Site Skin Project: Fonts!
+I also have made skins that change the typeface used on AO3. Currently I'm only using these skins for my own personal use for a couple of reasons:
+1. Web-safe fonts are my nemesis. There's no web-safe slab serif font, and the only web-safe geometric font is Century Gothic, which I hate with a passion. Too many web-safe fonts are just lookalikes of each other, and I need *variety* and *spice*.
+2. The usual workaround for *not* using web-safe fonts is to host your own fonts (not possible on AO3 for obvious reasons)
+3. The less-usual workaround for not being able to host your own fonts is to import them from Google fonts...which is a command that AO3 doesn't allow in their CSS module for creating skins. Which is probably for a very good reason
+4. Without being able to embed non-web-safe fonts directly into my CSS, I can't make these skins universal. To upload them for public use would also have to come with disclaimers and instructions on how to download the fonts onto each user's personal device, and even then, many browsers don't allow the use of downloaded fonts (looking at you, Safari).
+
+That said, if anyone wants access to these skins, let me know and I can upload them with disclaimers.
+
 <!--
 **izestforrest/izestforrest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
